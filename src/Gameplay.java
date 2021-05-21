@@ -3,8 +3,6 @@ import java.awt.event.*;
 import javax.swing.*;
 
 import java.awt.*;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 import javax.swing.Timer;
 
